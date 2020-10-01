@@ -1,4 +1,4 @@
-<h1 align="center"> Screenshoteer </h1>
+<h1 align="center"> SCREENCAST </h1>
 <p> This is a awesome tool to take your website screenshots using command line. you can do this with the help of some useful commands.
 plese go and use this awesome tool for  your websites.</p>
 
